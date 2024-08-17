@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+       printf("Students always remember, warna problem hojayegi");
+     return 0;
+}
